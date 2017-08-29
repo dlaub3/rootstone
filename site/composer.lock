@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "57adf83096ae495eea7573a0c52f8a03",
+    "content-hash": "dc7f91dff51a5d904548b46344616dc4",
     "packages": [
         {
             "name": "composer/installers",
@@ -396,6 +396,26 @@
                 "environment"
             ],
             "time": "2016-09-01T10:05:43+00:00"
+        },
+        {
+            "name": "wpackagist-plugin/block-bad-queries",
+            "version": 20170730,
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/block-bad-queries/",
+                "reference": "tags/20170730"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/block-bad-queries.20170730.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/block-bad-queries/"
         }
     ],
     "packages-dev": [
