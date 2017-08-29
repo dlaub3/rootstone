@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "1a56dac136d34a395b621d008147baeb",
+    "content-hash": "78fbc2217151e0a1859d89af7cbb25eb",
     "packages": [
         {
             "name": "composer/installers",
@@ -696,6 +696,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-spam-fighter/"
+        },
+        {
+            "name": "wpackagist-theme/hestia",
+            "version": "1.1.46",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/hestia/",
+                "reference": "1.1.46"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/hestia.1.1.46.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/hestia/"
         }
     ],
     "packages-dev": [
