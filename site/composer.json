@@ -46,7 +46,7 @@
     "wpackagist-plugin/wp-maintenance-mode": "2.0.9",
     "wpackagist-plugin/limit-login-attempts-reloaded": "2.6.1",
     "wpackagist-plugin/google-analytics-dashboard-for-wp": "5.1.1.1",
-    "wpackagist-plugin/jetpack": "2.6.1",
+    "wpackagist-plugin/jetpack": "5.2.1",
     "wpackagist-plugin/wp-security-audit-log": "2.6.5",
     "wpackagist-plugin/imsanity": "2.3.9",
     "wpackagist-plugin/wordfence": "6.3.17",
