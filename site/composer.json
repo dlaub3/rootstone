@@ -53,7 +53,7 @@
     "wpackagist-plugin/wp-spam-fighter": "0.5.1",
     "wpackagist-plugin/akismet": "3.3.4",
     "wpackagist-plugin/nginx-helper": "1.9.10",
-    "wpackagist-plugin/remove-query-strings-from-static-resources": "1.4",
+    "wpackagist-plugin/remove-query-strings-from-static-resources": "1.4"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2"
